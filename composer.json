@@ -1,5 +1,5 @@
 {
-    "name": "vulehd/phpexcel",
+    "name": "vulehd/phpreport",
     "description": "PHPReport",
     "keywords": ["PHPReport","Report","Excel"],
     "type": "library",
