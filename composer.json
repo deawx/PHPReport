@@ -6,8 +6,9 @@
     "license": "LGPL",
     "authors": [
         {
-            "name": "Vu Le",
-            "email": "vu.le@hotdeal.vn"
+            "name" : "Vu Le",
+			"email" : "vu.le@hotdeal.vn",
+			"homepage" : "http://github.com/vulehd"
         }
     ],
     "require": {
@@ -18,5 +19,9 @@
         "psr-0": {
             "PHPReport": "src/"
         }
-    }
+    },
+	"support" : {
+		"email" : "vu.le@hotdeal.vn",
+		"issues" : "https://github.com/vulehd/phpreport/issues"
+	}
 }
